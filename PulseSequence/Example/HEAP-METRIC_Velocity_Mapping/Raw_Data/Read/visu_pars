@@ -1,0 +1,175 @@
+##TITLE=Parameter List, ParaVision 6.0.1
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=mri
+$$ 2021-02-24 13:49:09.510 +0800  mri@CZC628941P
+$$ /opt/PV6.0.1/data/mri/20210224_130018_2021_LJC_csfvolicity_iso_mouse05_1_1/7/visu_pars
+$$ process /opt/PV6.0.1/prog/mod/acq_out
+##$VisuVersion=3
+##$VisuUid=( 65 )
+<2.16.756.5.5.100.8323328.32897.1614145749.1>
+##$VisuCreator=( 65 )
+<ParaVision>
+##$VisuCreatorVersion=( 65 )
+<6.0.1>
+##$VisuCreationDate=<2021-02-24T13:49:09,472+0800>
+##$VisuInstanceModality=( 65 )
+<MR>
+##$VisuCoreFrameCount=36
+##$VisuCoreDim=2
+##$VisuCoreSize=( 2 )
+200 200
+##$VisuCoreDimDesc=( 2 )
+spatial spatial
+##$VisuCoreExtent=( 2 )
+16 16
+##$VisuCoreFrameThickness=( 1 )
+0.4
+##$VisuCoreUnits=( 2, 65 )
+<mm> <mm>
+##$VisuCoreOrientation=( 2, 9 )
+1 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1
+##$VisuCorePosition=( 2, 3 )
+-8.352775 -5.16711 -0.736517 -8.352775 -5.16711 -0.336517
+##$VisuCoreDataMin=( 36 )
+-32762.6254754062 -32755.9797871026 -32761.7041165771 -32765.3535326994 
+-32762.7067811834 -32757.8700520213 -32762.7938946631 -32755.0710896493 
+-32760.7636925872 -32758.0120307645 -32761.0993877677 -32739.6454143565 
+-32764.3766364725 -32754.4150682407 -32753.1263295121 -32766.0277840176 
+-32758.492416732 -32757.6622710602 -32752.3898285989 -32755.1578697626 
+-32765.224139659 -32760.3170608732 -32764.3044782906 -32753.0344618179 
+-32765.072459385 -32759.8209688907 -32765.4005349121 -32765.465532148 
+-32763.7453668965 -32765.6983128226 -32766.0980997107 -32762.8424342065 
+-32741.5131739573 -32752.1006556249 -32760.4723556849 -32752.4515975016
+##$VisuCoreDataMax=( 36 )
+32762.1759573607 32764.1514641361 32761.1617345048 32757.68063969 
+32763.0775921233 32764.5314976444 32764.4649489223 32754.7146798963 
+32765.166375963 32758.4288654089 32763.6500732625 32763.8797242658 
+32754.7705270222 32763.4801993837 32753.1999194404 32762.9400669446 
+32757.7062810159 32758.0202240686 32745.1920065034 32752.6438211655 
+32764.7395755498 32760.6193350769 32750.3719594601 32755.2713127801 
+32727.8566979795 32761.7394940512 32755.1354692927 32764.6982642074 
+32753.3991326181 32758.3913986413 32749.8582864156 32765.9274648316 
+32759.8228651154 32760.6647476971 32750.491424687 32765.4057421363
+##$VisuCoreDataOffs=( 36 )
+-0 -0 -0 -0 -0 -0 -0 -0 -0 -0 -0 -0 -0 -0 -0 -0 -0 -0 -0 -0 -0 -0 -0 -0 -0 -0 
+-0 -0 -0 -0 -0 -0 -0 -0 -0 -0
+##$VisuCoreDataSlope=( 36 )
+4.57784627592904e-06 4.57784627592904e-06 4.57784627592904e-06 
+4.57784627592904e-06 4.57784627592904e-06 4.57784627592904e-06 
+4.57784627592904e-06 4.57784627592904e-06 4.57784627592904e-06 
+4.57784627592904e-06 4.57784627592904e-06 4.57784627592904e-06 
+4.57784627592904e-06 4.57784627592904e-06 4.57784627592904e-06 
+4.57784627592904e-06 4.57784627592904e-06 4.57784627592904e-06 
+4.57784627592904e-06 4.57784627592904e-06 4.57784627592904e-06 
+4.57784627592904e-06 4.57784627592904e-06 4.57784627592904e-06 
+4.57784627592904e-06 4.57784627592904e-06 4.57784627592904e-06 
+4.57784627592904e-06 4.57784627592904e-06 4.57784627592904e-06 
+4.57784627592904e-06 4.57784627592904e-06 4.57784627592904e-06 
+4.57784627592904e-06 4.57784627592904e-06 4.57784627592904e-06
+##$VisuCoreDataUnits=( 1, 65 )
+<cm/s>
+##$VisuCoreFrameType=( 1 )
+PHASE_IMAGE
+##$VisuCoreSlicePacksDef=(0, 1)
+##$VisuCoreSlicePacksSlices=( 1 )
+(0, 2)
+##$VisuCoreSlicePacksSliceDist=( 1 )
+0.4
+##$VisuCoreWordType=_16BIT_SGN_INT
+##$VisuCoreByteOrder=littleEndian
+##$VisuFGOrderDescDim=2
+##$VisuFGOrderDesc=( 2 )
+(2, <FG_SLICE>, <>, 0, 2) (18, <FG_CYCLE>, <>, 2, 0)
+##$VisuGroupDepVals=( 2 )
+(<VisuCoreOrientation>, 0) (<VisuCorePosition>, 0)
+##$VisuSubjectName=( 65 )
+<2021_LJC_csfvolicity_iso_mouse05>
+##$VisuSubjectId=( 65 )
+<2021_LJC_csfvolicity_iso_mouse05>
+##$VisuSubjectUid=( 65 )
+<2.16.756.5.5.100.8323328.16380.1614142818.507>
+##$VisuSubjectInstanceCreationDate=(1614142818, 366, 480)
+##$VisuSubjectBirthDate=( 9 )
+<20210224>
+##$VisuSubjectSex=UNKNOWN
+##$VisuSubjectType=Quadruped
+##$VisuStudyUid=( 65 )
+<2.16.756.5.5.100.8323328.16380.1614142818.508>
+##$VisuStudyDate=<2021-02-24T13:00:18,367+0800>
+##$VisuStudyId=( 65 )
+<2021_LJC_csfvolicity_iso_mouse05>
+##$VisuStudyNumber=1
+##$VisuSubjectWeight=0.001
+##$VisuStudyReferringPhysician=( 65 )
+<mri>
+##$VisuStudyDescription=( 2048 )
+<\
+>
+##$VisuExperimentNumber=7
+##$VisuProcessingNumber=1
+##$VisuSeriesDate=<2021-02-24T13:49:09,472+0800>
+##$VisuSubjectPosition=Head_Supine
+##$VisuSeriesTypeId=( 65 )
+<ACQ_USER_PVM>
+##$VisuSeriesComment=( 65 )
+<mbFLOWMAPVer02_r>
+##$VisuManufacturer=( 65 )
+<Bruker BioSpin MRI GmbH>
+##$VisuAcqSoftwareVersion=( 65 )
+<6.0.1>
+##$VisuInstitution=( 65 )
+<Shanghai Institute for Biological Sciences>
+##$VisuStation=( 65 )
+<BioSpec 94/30 USR AV3HD>
+##$VisuSystemOrderNumber=( 65 )
+<10239849>
+##$VisuAcqDate=<2021-02-24T13:41:26,285+0800>
+##$VisuAcqEchoTrainLength=1
+##$VisuAcqSequenceName=( 40 )
+<User:mbFLOWMAPVer02>
+##$VisuAcqNumberOfAverages=1
+##$VisuAcqImagingFrequency=400.310036411301
+##$VisuAcqImagedNucleus=( 8 )
+<1H>
+##$VisuAcqRepetitionTime=( 1 )
+30
+##$VisuAcqPhaseEncSteps=200
+##$VisuAcqPixelBandwidth=500
+##$VisuAcqFlipAngle=10
+##$VisuAcqSize=( 2 )
+200 200
+##$VisuAcqImageSizeAccellerated=No
+##$VisuAcqGradEncoding=( 2 )
+read_enc phase_enc
+##$VisuAcqEchoTime=( 1 )
+9.1
+##$VisuAcquisitionProtocol=( 65 )
+<mbFLOWMAPVer02>
+##$VisuAcqScanTime=436320
+##$VisuAcqAntiAlias=( 2 )
+1 1
+##$VisuAcqEchoSequenceType=Both
+##$VisuAcqSpinsVelocityEncoded=No
+##$VisuAcqHasTimeOfFlightContrast=No
+##$VisuAcqIsEpiSequence=No
+##$VisuAcqSpectralSuppression=NoSuppression
+##$VisuAcqKSpaceTraversal=RectilinearTraversal
+##$VisuAcqEncodingOrder=( 2 )
+LinearEncoding LinearEncoding
+##$VisuAcqKSpaceTrajectoryCnt=1
+##$VisuAcqKSpaceFiltering=( 2 )
+NO_WDW NO_WDW
+##$VisuAcqFlowCompensation=FlowNone
+##$VisuAcqSpoiling=GradientSpoiled
+##$VisuAcqPartialFourier=( 2 )
+1 1
+##$VisuAcqParallelReductionFactor=( 2 )
+1 1
+##$VisuAcqMagnetizationTransfer=No
+##$VisuAcqBloodSignalNulling=No
+##$VisuCardiacSynchUsed=No
+##$VisuRespSynchUsed=No
+##END=
+$$ File finished by PARX at 2021-02-24 13:49:09.510 +0800

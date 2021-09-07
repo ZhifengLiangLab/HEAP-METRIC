@@ -1,0 +1,12 @@
+##TITLE=Parameter List, ParaVision 6.0.1
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=mri
+$$ 2021-02-24 13:57:56.519 +0800  mri@CZC628941P
+$$ /opt/PV6.0.1/data/mri/20210224_130018_2021_LJC_csfvolicity_iso_mouse05_1_1/12/pdata/1/id
+$$ process /opt/PV6.0.1/prog/bin/parxserver
+##$DATASET_KEY=( 65 )
+<2.16.756.5.5.100.8323328.16380.1614146276.791>
+##END=
+$$ File finished by PARX at 2021-02-24 13:57:56.519 +0800

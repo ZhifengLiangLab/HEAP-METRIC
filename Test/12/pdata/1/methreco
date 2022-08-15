@@ -1,0 +1,13 @@
+##TITLE=Parameter List, ParaVision 6.0.1
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=mri
+$$ 2020-12-10 13:06:09.999 +0800  mri@CZC628941P
+$$ /opt/PV6.0.1/data/mri/20201210_122906_20201210_LJC_mouse_test_1_1/12/pdata/1/methreco
+$$ process /opt/PV6.0.1/prog/mod/acq_out
+##$SignalMask=5
+##$FlowZeroFillFactor=1
+$$ @vis= SignalMask MethodRecoGroup
+##END=
+$$ File finished by PARX at 2020-12-10 13:06:09.999 +0800

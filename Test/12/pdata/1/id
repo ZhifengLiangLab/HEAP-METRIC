@@ -1,0 +1,12 @@
+##TITLE=Parameter List, ParaVision 6.0.1
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=mri
+$$ 2020-12-10 12:58:22.356 +0800  mri@CZC628941P
+$$ /opt/PV6.0.1/data/mri/20201210_122906_20201210_LJC_mouse_test_1_1/12/pdata/1/id
+$$ process /opt/PV6.0.1/prog/bin/parxserver
+##$DATASET_KEY=( 65 )
+<2.16.756.5.5.100.8323328.15269.1607576302.1116>
+##END=
+$$ File finished by PARX at 2020-12-10 12:58:22.356 +0800
